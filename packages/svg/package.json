@@ -33,6 +33,5 @@
     },
     "sideEffects": [
         "styles/**"
-    ],
-    "gitHead": "464da086bf854c2d6c3d45b70841bc16e973a077"
+    ]
 }
