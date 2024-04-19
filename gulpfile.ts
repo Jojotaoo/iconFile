@@ -184,9 +184,9 @@ function createBuildTask(name: 'react' | 'vue' | 'svg' | 'vue-next'): string {
 gulp.task(
     'default',
     gulp.parallel(
-        createBuildTask('react'),
-        createBuildTask('vue'),
-        createBuildTask('vue-next'),
+        // createBuildTask('react'),
+        // createBuildTask('vue'),
+        // createBuildTask('vue-next'),
         createBuildTask('svg')
     )
 )
