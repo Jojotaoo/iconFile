@@ -1,7 +1,7 @@
 {
     "name": "@icon-park/svg",
     "description": "Pure Svg Icons for IconPark",
-    "version": "1.4.3",
+    "version": "0.0.1",
     "main": "lib/index.js",
     "module": "es/index.js",
     "typings": "lib/index.d.ts",
@@ -34,5 +34,5 @@
     "sideEffects": [
         "styles/**"
     ],
-    "gitHead": "bed2e8d1e451ffc66cbc4def3ba54fcc1f318d9e"
+    "gitHead": "464da086bf854c2d6c3d45b70841bc16e973a077"
 }
